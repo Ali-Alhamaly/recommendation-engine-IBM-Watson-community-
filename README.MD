@@ -15,6 +15,10 @@ the main motivation is to learn and practice the making of recommendation engine
 
 The jupyter notebook contain preparation walkthrough codes to make the recommendation engine pipeline, and to process the raw data.
 
+```project_tests.py``` has code to test intermediate results 
+
+```data``` folder contains the data analyzed in ```csv``` format
+
 ## Results
 
 the results, explorations, and detailed analysis all available in the jupyter notebook
